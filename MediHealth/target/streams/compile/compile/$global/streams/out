@@ -1,0 +1,19 @@
+[0m[[0m[31merror[0m] [0m[0m/home/ddcn32576/Applications/hmrc-development-environment/hmrc/MageGame/src/main/scala/MediHealth.scala:15:45: not found: value Vaccine[0m
+[0m[[0m[31merror[0m] [0m[0m    val totalCost = if (treatments.contains(Vaccine)) {[0m
+[0m[[0m[31merror[0m] [0m[0m                                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ddcn32576/Applications/hmrc-development-environment/hmrc/MageGame/src/main/scala/MediHealth.scala:17:30: not found: value Vaccine[0m
+[0m[[0m[31merror[0m] [0m[0m      totalTreatmentCharge + Vaccine.serviceCost[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ddcn32576/Applications/hmrc-development-environment/hmrc/MageGame/src/main/scala/MediHealth.scala:31:49: not found: value BloodTest[0m
+[0m[[0m[31merror[0m] [0m[0m    val bloodTests: Int = treatments.count(_ == BloodTest)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ddcn32576/Applications/hmrc-development-environment/hmrc/MageGame/src/main/scala/MediHealth.scala:33:29: not found: value Diagnosis[0m
+[0m[[0m[31merror[0m] [0m[0m    if (treatments.contains(Diagnosis)) {[0m
+[0m[[0m[31merror[0m] [0m[0m                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ddcn32576/Applications/hmrc-development-environment/hmrc/MageGame/src/main/scala/MediHealth.scala:35:21: not found: value BloodTest[0m
+[0m[[0m[31merror[0m] [0m[0m      bloodTests * (BloodTest.cost * BloodTest.insuredReduction)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ddcn32576/Applications/hmrc-development-environment/hmrc/MageGame/src/main/scala/MediHealth.scala:35:38: not found: value BloodTest[0m
+[0m[[0m[31merror[0m] [0m[0m      bloodTests * (BloodTest.cost * BloodTest.insuredReduction)[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m6 errors found[0m

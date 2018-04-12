@@ -1,0 +1,17 @@
+[0m[[0m[31merror[0m] [0m[0m/home/ddcn32576/Applications/hmrc-development-environment/hmrc/MageGame/src/test/scala/MediHealthSpec.scala:10:25: not enough arguments for method produceMedicalBill: (treatments: List[Treatment], customerType: CustomerType)Double.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter customerType.[0m
+[0m[[0m[31merror[0m] [0m[0m      produceMedicalBill(List()) shouldBe 0.00[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ddcn32576/Applications/hmrc-development-environment/hmrc/MageGame/src/test/scala/MediHealthSpec.scala:16:25: not enough arguments for method produceMedicalBill: (treatments: List[Treatment], customerType: CustomerType)Double.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter customerType.[0m
+[0m[[0m[31merror[0m] [0m[0m      produceMedicalBill(List(Diagnosis)) shouldBe 60.00[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ddcn32576/Applications/hmrc-development-environment/hmrc/MageGame/src/test/scala/MediHealthSpec.scala:22:25: not enough arguments for method produceMedicalBill: (treatments: List[Treatment], customerType: CustomerType)Double.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter customerType.[0m
+[0m[[0m[31merror[0m] [0m[0m      produceMedicalBill(List(Diagnosis, XRay, BloodTest, ECG, Diagnosis, BloodTest)) shouldBe 626.40[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ddcn32576/Applications/hmrc-development-environment/hmrc/MageGame/src/test/scala/MediHealthSpec.scala:28:25: not enough arguments for method produceMedicalBill: (treatments: List[Treatment], customerType: CustomerType)Double.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter customerType.[0m
+[0m[[0m[31merror[0m] [0m[0m      produceMedicalBill(List(Vaccine)) shouldBe 17.00[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m
