@@ -3,23 +3,23 @@ sealed trait Treatment {
 }
 
 case object Diagnosis extends Treatment {
-  override val cost: Double = 60.00
+  val cost: Double = 60.00
 }
 
 case object XRay extends Treatment {
-  override val cost: Double = 150.00
+  val cost: Double = 150.00
 }
 
 case object BloodTest extends Treatment {
-  override val cost: Double = 78.0
+  val cost: Double = 78.0
   val insuredReduction: Double = 0.15
 }
 
 case object ECG extends Treatment {
-  override val cost: Double = 200.40
+  val cost: Double = 200.40
 }
 
 case object Vaccine extends Treatment {
-  override val cost: Double = 15.00
+  val cost: Double = 15.00
   val serviceCost: Double = 27.50
 }
