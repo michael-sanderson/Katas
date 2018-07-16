@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mConjecturePointSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mfindLengthOfSequence[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return correct length of sequence when given an even starting number[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return correct length of sequence when given an odd starting number[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  should applyCalculations[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should return a stream of BigInts[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  should isEven[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should return true when number is even[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should return false when number is odd[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  should applyEvenCalculation[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should divide number by 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  should applyOddCalculation[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should multiply number by 3 and plus 1[0m[0m

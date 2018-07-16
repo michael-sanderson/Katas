@@ -1,0 +1,11 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mMediHealthSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mproduceMedicalBill[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return bill amount 0.00 when given no treatments[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return correct bill amount when given a single treatment[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return correct bill amount when given multiple treatments[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return correct bill amount when given single vaccine[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return correct bill amount when given multiple vaccines[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should apply 60% discount when customer is a senior citizen[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should apply 90% discount when customer is a senior citizen over 70[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should apply 40% discount when customer is a child under 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should apply 15% discount to Blood Tests when customer is insured[0m[0m

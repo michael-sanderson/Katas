@@ -1,0 +1,7 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mUniqueIntSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFindUniqueInt[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return int as unique int when given a list with a single positive int[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return int as unique int when given a list with a single negative int[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return only unique int when given a list with a single unique positive int[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return only unique int when given a list with a single unique negative int[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return only unique int when given a large list with a single unique int[0m[0m
