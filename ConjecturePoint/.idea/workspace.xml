@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5719b2e1-647f-48cf-8e85-01abc6be02cc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../BowlingScore" afterPath="$PROJECT_DIR$/../BowlingScore" />
-      <change beforePath="$PROJECT_DIR$/../FizzBuzz" afterPath="$PROJECT_DIR$/../FizzBuzz" />
-      <change beforePath="$PROJECT_DIR$/../HarryPotter/build.sbt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../HarryPotter/hs_err_pid4838.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../HarryPotter/project/build.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../HarryPotter/src/main/scala/PizzaOrder.scala" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../HarryPotter/src/test/scala/PizzaOrderSpec.scala" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../MediHealth/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../MediHealth/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../RomanNumerals" afterPath="$PROJECT_DIR$/../RomanNumerals" />
-      <change beforePath="$PROJECT_DIR$/../StringFinder" afterPath="$PROJECT_DIR$/../StringFinder" />
-      <change beforePath="$PROJECT_DIR$/../StringdFinder2" afterPath="$PROJECT_DIR$/../StringdFinder2" />
-    </list>
+    <list default="true" id="5719b2e1-647f-48cf-8e85-01abc6be02cc" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -299,12 +287,12 @@
       <workItem from="1529312544873" duration="4713000" />
       <workItem from="1529397770934" duration="2428000" />
       <workItem from="1530184521306" duration="1477000" />
-      <workItem from="1531744525070" duration="2993000" />
+      <workItem from="1531744525070" duration="3782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43403000" />
+    <option name="totallyTimeSpent" value="44192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
